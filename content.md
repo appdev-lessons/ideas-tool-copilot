@@ -11,7 +11,7 @@ Once you have a project open, note the "Copilot" button
 ![](/assets/copilot-button.png)
 {: .bleed-full }
 
-Once you click that you should see a new page where the commands to `rails generate` user accounts and resources, and the association accessor methods that you can add in your models!
+Once you click that you should see a new page with the commands to `rails generate` user accounts and resources, and the association accessor methods that you can add in your models!
 
 Feel free to use as many of those commands as you want to build your app, but **you should not be afraid to change the generated code**.
 
